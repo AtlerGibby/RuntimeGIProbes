@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden_GICameraShader DemoScene
+  m_Shader: {fileID: 4800000, guid: 0f6591cd8f7e02c45afa0530755382a4, type: 3}
+  m_ValidKeywords:
+  - _DEBUGMODE_DISABLE
+  - _FOGMODE_EXPONENTIAL
+  m_InvalidKeywords:
+  - _DIRECTLIGHT_A
+  - _DIRECTLIGHT_SSSHADOWMAPANDLIGHTCHECKERS
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _DIRECTLIGHT: 1
+    - _DebugGILC: 0
+    - _DebugMode: 0
+    - _DirectLight: 0
+    - _FogDensity: 0
+    - _FogEnd: 100
+    - _FogMode: 1
+    - _FogStart: 0
+    - _GIBrightness: 1.7
+    - _GIColInf: 1
+    - _GIContrast: 1.03
+    - _GIGlobal: 1
+    - _GIStength: 0.92
+    - _GIStrength: 1
+    - _GITest: 0.21582
+    - _GIValInf: 0.145
+    - _GIVolRad: 1
+    - _LCStrength: 1
+    - _SSSMStrength: 0
+    - _VRXLOffset: 0.25
+    - _VRXOffset: 0.2
+    - _VRXROffset: 0.25
+    - _VRXScale: 2.5
+    - _VRYOffset: 0.1
+    m_Colors:
+    - _EE: {r: 0.3773585, g: 0.18654324, b: 0.34181884, a: 1}
+    - _FogColor: {r: 0.41960785, g: 0.47843137, b: 0.627451, a: 1}
+  m_BuildTextureStacks: []
