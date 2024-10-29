@@ -1,5 +1,7 @@
 Runtime GI Probes is a full-screen image effect that adds global illumination to your scene by capturing the scene’s illumination anywhere a GI Probe is placed. Runtime GI Probes works independently from Unity’s built-in lighting and GI Probe solution.
 
+Try out the [Demo](https://atlergibby.itch.io/runtime-gi-probes)
+
 # Features
 * Fast GI Baking. Can take seconds bake on mid to high end PCs.
 * Debugging options for visualizing lightmaps.
